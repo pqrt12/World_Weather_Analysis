@@ -11,7 +11,7 @@
 - There are 78 Cities have recorded rainfall or snow in the past 3 hours.
 
 ## Part 2, Narrow Travel Searches Based on Weather  
-  Vacation_Search_ipynb
+  Vacation_Search.ipynb
 - Asking customer for temperature ranges, prefer raining, prefer snowing?
 - Prefered Cities are selected, stored in hotel_df.
   as an example, temparature range chosen is (35.0, 60.0) Fahrenheit, no rain, no snow.
